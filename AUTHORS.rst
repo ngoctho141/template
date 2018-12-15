@@ -1,7 +1,6 @@
 Authors
 -------
 
-* Ngoc Tho (New contributor)
-* Cao Lam 
+* Ngoc Tho (New contributor) 
 
 
