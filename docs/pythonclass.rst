@@ -63,7 +63,7 @@ Xem ví dụ sau đây:
     building1.occupy(1, 'ABC Corp')
     building1.occupy(2, 'DEF Inc')
 
-Nếu không có ``__getitem__`` thì mọi thì để get thuộc tính bạn cần phải gọi method như sau:
+Nếu không có ``__getitem__`` thì mỗi khi để get thuộc tính bạn cần phải gọi method như sau:
 
 .. code-block:: python
 
