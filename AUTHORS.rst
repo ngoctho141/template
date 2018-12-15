@@ -1,7 +1,7 @@
 Authors
 -------
 
-* Eric (New contributor)
-* Anthony 
+* Ngoc Tho (New contributor)
+* Cao Lam 
 
 
