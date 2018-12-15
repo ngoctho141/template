@@ -2,7 +2,10 @@
 Class trong Python
 ==================
 
-Cấu trúc một class trong python như sau::
+Cấu trúc một class trong python như sau
+
+.. code-block:: python
+
     class Dog:
 
         # Class Attribute
