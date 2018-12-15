@@ -15,6 +15,10 @@ Cấu trúc một class trong python như sau
         def __init__(self, name, age):
             self.name = name
             self.age = age
+        
+        # Override __str__ method
+        def __str__(self):
+            return 'Dog has name = {}, age = {}'.format(self.name, self.age)
 
 
     # Instantiate the Dog object
