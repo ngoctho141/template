@@ -1,5 +1,5 @@
 ==================
-Class trong Python
+Class
 ==================
 
 Cấu trúc một class trong python như sau
