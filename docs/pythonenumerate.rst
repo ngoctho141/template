@@ -33,3 +33,7 @@ Tạo tuple với index từ list:
     # 2 banana
     # 3 grapes
     # 4 pear
+
+.. code-block:: bat
+
+    lazygit
